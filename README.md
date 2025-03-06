@@ -10,7 +10,7 @@ Experienced in designing, implementing, and optimizing trading systems and strat
 ## Professional Experience
 
 **Trading Systems Developer**  
-_Freelance / Project-Based Work (October 2021 – Present)_
+_Project-Based Work (October 2021 – Present)_
 
 ### Market-Making
 - Developed a program for visualizing market annotations and price levels on Binance testnet using **market-making algorithms** and limit order execution.
